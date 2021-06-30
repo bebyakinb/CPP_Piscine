@@ -1,5 +1,5 @@
 
-# CPP Piscine
+# CPP Piscine <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 CPP Piscine is a intensive C++ course offered by 21School(42). The course is divided into 9 modules. Each module aims to cover special topics:
 
@@ -20,5 +20,3 @@ Day 06: C++ casts
 Day 07: C++ templates
 
 Day 08: Templated containers, iterators, algorithms
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebyakinb&exclude_repo=tele_bot,00_Calc,youtube-concept,news_aggregator,turfood_bot,webserv&layout=compact&theme=synthwave)
