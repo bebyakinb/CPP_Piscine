@@ -3,8 +3,8 @@
 
 CPP Piscine is a intensive C++ course offered by 21School(42). The course is divided into 9 modules. Each module aims to cover special topics:
 
-| Modul       | Topic |
-| -------------- | ------------------------------------------------------------------------------------------------------- |
+| Modul          | Topic |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
 | Day 00 | Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuff |
 | Day 01 | Memory allocation, References, Pointers to members, File streams |
 | Day 02 | Ad-hoc polymorphism, operators overload and canonical classes |
